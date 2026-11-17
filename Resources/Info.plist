@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>影桥</string>
+	<key>CFBundleExecutable</key>
+	<string>PhoneMediaImporter</string>
+	<key>CFBundleIconFile</key>
+	<string>影桥.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.gravity.phone-media-importer</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>影桥</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>0.1.0</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>NSCameraUsageDescription</key>
+	<string>用于连接和读取相机类设备中的媒体。</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>用于读取 Mac 照片图库中的照片、视频和 Live Photo，并以完整图库数量显示。</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>用于将导入的媒体保存到照片图库。</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>

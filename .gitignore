@@ -1,0 +1,10 @@
+.DS_Store
+/build/
+/dist/
+/check
+*.log
+*.ndjson
+.env
+.env.*
+*.p12
+*.mobileprovision
