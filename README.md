@@ -6,7 +6,7 @@
 
 需要 **macOS 14 或更高版本**。安装包包含 Apple Silicon 和 Intel 两种架构，运行所需框架均由 macOS 提供。
 
-仓库为私有。请先登录拥有此仓库访问权限的 GitHub 账号。
+源码与安装包公开提供，采用 [MIT 许可证](LICENSE)。
 
 1. 打开 [安装包下载](https://github.com/maxmaximage-hash/yingqiao/releases)。
 2. 下载最新版本的 `.dmg`，双击打开。
@@ -24,7 +24,7 @@ cd yingqiao
 ./install.command
 ```
 
-私有仓库的 Git 拉取需要 GitHub 身份验证。也可以登录 GitHub 后使用“Code → Download ZIP”，解压后双击 `install.command`。安装时先退出已运行的影桥。
+也可以使用 GitHub 的“Code → Download ZIP”，解压后双击 `install.command`。安装时先退出已运行的影桥。
 
 默认安装到 `/Applications/影桥.app`，该目录无法写入时安装到 `~/Applications/影桥.app`。可指定安装目录。
 

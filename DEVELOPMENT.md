@@ -2,7 +2,7 @@
 
 ## 2026-11-17 分发状态
 
-当前源码、图标资源和通用预编译 ZIP 同步到私有 GitHub 仓库 `maxmaximage-hash/yingqiao`。安装和构建步骤以 [README.md](README.md) 为准。
+当前源码、图标资源和通用预编译 ZIP 同步到公开 GitHub 仓库 `maxmaximage-hash/yingqiao`，采用 MIT 许可证。安装和构建步骤以 [README.md](README.md) 为准。
 
 - 目标系统为 macOS 14+，构建包含 arm64 和 x86_64。
 - `install.command` 使用仓库内预编译安装包，执行 SHA-256 和签名校验。
